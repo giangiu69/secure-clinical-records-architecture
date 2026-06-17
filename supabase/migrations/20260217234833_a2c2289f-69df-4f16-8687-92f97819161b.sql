@@ -1,0 +1,1 @@
+ALTER TABLE spr2_records ALTER COLUMN durata TYPE numeric USING durata::numeric;

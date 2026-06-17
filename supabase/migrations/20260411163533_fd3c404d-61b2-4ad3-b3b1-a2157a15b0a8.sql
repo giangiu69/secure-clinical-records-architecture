@@ -1,0 +1,1 @@
+ALTER TABLE public.spr1_records ALTER COLUMN cittu TYPE character varying(6);

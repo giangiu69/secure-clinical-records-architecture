@@ -1,0 +1,1 @@
+ALTER TABLE public.spr1_records ALTER COLUMN codpres TYPE character varying(20);

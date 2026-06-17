@@ -1,0 +1,1 @@
+ALTER TABLE public.spr1_records ALTER COLUMN id_utente TYPE character varying(20);

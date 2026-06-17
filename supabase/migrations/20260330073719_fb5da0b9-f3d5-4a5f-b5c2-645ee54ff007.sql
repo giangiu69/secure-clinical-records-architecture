@@ -1,0 +1,1 @@
+ALTER TABLE public.spr2_records ADD COLUMN is_remote boolean DEFAULT false;
